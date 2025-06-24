@@ -1,0 +1,1 @@
+rootProject.name = "vincenzo-skeleton-jdk17-kotlin"
